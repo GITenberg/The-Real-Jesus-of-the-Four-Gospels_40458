@@ -1,0 +1,27 @@
+_repo: The-Real-Jesus-of-the-Four-Gospels_40458
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atwater, John Birdseye
+    alias: Atwater, J. B.
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '40629'
+    url: http://www.gutenberg.org/2009/agents/40629
+description: ''
+gutenberg_issued: '2012-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Biography'
+- !lcc 'BT'
+title: The Real Jesus of the Four Gospels
+url: http://www.gutenberg.org/ebooks/40458
